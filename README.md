@@ -50,6 +50,7 @@ If you want to learn more about building native executables, please consult http
 ## Related Guides
 
 - SmallRye Reactive Messaging - AMQP Connector ([guide](https://quarkus.io/guides/amqp)): Connect to AMQP with Reactive Messaging
+- Getting Started with AMQP in your Quarkus application ([guide] (https://quarkus.io/blog/getting-started-amqp/)): Getting Started
 
 ## Provided Code
 
